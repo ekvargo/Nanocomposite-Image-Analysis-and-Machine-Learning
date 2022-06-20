@@ -1,4 +1,4 @@
-# Nanocomposite-Image-Analysis
+# Nanocomposite-Image-Analysis-and-Machine-Learning
 
 The code in this repository performs automated image analysis on micrographs of block copolymers or visually-similar structures (defined dark and light domains with a characteristic periodicity)
 
