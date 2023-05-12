@@ -2,9 +2,9 @@
 
 The code in this repository performs automated image analysis on micrographs of block copolymers or visually-similar structures (defined dark and light domains with a characteristic periodicity)
 
-This code was developed to extract quantitative information from atomic force microscopy (AFM) images, as published [here](https://doi.org/10.1002/adma.202203168).
+This code was developed to extract quantitative information from atomic force microscopy (AFM) images, as published [here](https://doi.org/10.1002/adma.202203168). It has also been successfully used on transmission electron microscopy (TEM) images. The analysis time for each image depends on its size, but publication-quality micrographs (eg. 512 x 512 pixels) can be analyzed within 1–2 minutes. If you only want to perform certain analyses, the time can be trimmed down to just a few seconds. 
 
-It was strongly inspired by the [work](https://doi.org/10.1371/journal.pone.0133088) of Jeffrey Murphy, Kenneth Harris, and Jillian Buriak. You can access their ImageJ plugin [here](https://github.com/MurphysLab/ADAblock).
+These methods were strongly inspired by the [work](https://doi.org/10.1371/journal.pone.0133088) of Jeffrey Murphy, Kenneth Harris, and Jillian Buriak. You can access their ImageJ plugin [here](https://github.com/MurphysLab/ADAblock).
 
 ## Files:
 1. `Image_Analysis_Environment.yml`
